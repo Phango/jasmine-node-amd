@@ -1,0 +1,23 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "testing some amd modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Pang",
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "karma-requirejs": "^1.1.0",
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.1",
+    "karma-jasmine-html-reporter": "^1.0.0",
+    "requirejs": "^2.3.5"
+  }
+}
