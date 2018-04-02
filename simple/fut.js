@@ -1,7 +1,7 @@
 define(
     "fut",
-    [],
-    function () {
+    [ "" ],
+    function ($) {
         var FUT = function() {
             this.name = "something"
         };
